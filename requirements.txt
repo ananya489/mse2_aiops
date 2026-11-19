@@ -1,0 +1,21 @@
+
+# Data Processing
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# MLOps
+mlflow
+joblib
+
+# API Development
+fastapi
+uvicorn[standard]
+pydantic
+
+# Testing
+pytest
+httpx
